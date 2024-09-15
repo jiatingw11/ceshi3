@@ -1,0 +1,228 @@
+Uri: https://pbs.twimg.com/ext_tw_video_thumb/1815780723531419648/pu/img/f6J0et1f2p2GxSFR?format=jpg&name=small
+File Name: C:\Downloaded Web Sites\www.simons.cat\ext_tw_video_thumb\1815780723531419648\pu\img\f6J0et1f2p2GxSFR
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/media/GTQpGofX0AA0pd0?format=jpg&name=small
+File Name: C:\Downloaded Web Sites\www.simons.cat\media\GTQpGofX0AA0pd0
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/profile_images/1460394944477245447/6CJDOThO_normal.jpg
+File Name: C:\Downloaded Web Sites\www.simons.cat\profile_images\1460394944477245447\6CJDOThO_normal.jpg
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/profile_images/1815481601528385536/vDwWOHdp_normal.jpg
+File Name: C:\Downloaded Web Sites\www.simons.cat\profile_images\1815481601528385536\vDwWOHdp_normal.jpg
+Content Type: image/jpeg
+
+Uri: https://pbs.twimg.com/profile_images/1818648009560698880/W1Xr6uJg_normal.jpg
+File Name: C:\Downloaded Web Sites\www.simons.cat\profile_images\1818648009560698880\W1Xr6uJg_normal.jpg
+Content Type: image/jpeg
+
+Uri: https://video.twimg.com/ext_tw_video/1815780723531419648/pu/vid/avc1/640x360/tHyMCANJBO46z2mV.mp4?tag=12
+File Name: C:\Downloaded Web Sites\www.simons.cat\ext_tw_video\1815780723531419648\pu\vid\avc1\640x360\tHyMCANJBO46z2mV.mp4
+Content Type: video/mp4
+
+Uri: https://www.simons.cat/
+File Name: C:\Downloaded Web Sites\www.simons.cat\index.htm
+Content Type: text/html
+
+Uri: https://www.simons.cat/assets/icons/dextools.svg
+File Name: C:\Downloaded Web Sites\www.simons.cat\assets\icons\dextools.svg
+Content Type: image/svg+xml
+
+Uri: https://www.simons.cat/assets/icons/telegram.svg
+File Name: C:\Downloaded Web Sites\www.simons.cat\assets\icons\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://www.simons.cat/assets/icons/x.svg
+File Name: C:\Downloaded Web Sites\www.simons.cat\assets\icons\x.svg
+Content Type: image/svg+xml
+
+Uri: https://www.simons.cat/assets/images/asset-landing-bg-light.png
+File Name: C:\Downloaded Web Sites\www.simons.cat\assets\images\asset-landing-bg-light.png
+Content Type: image/png
+
+Uri: https://www.simons.cat/assets/images/asset-landing-mobile-bg-light.png
+File Name: C:\Downloaded Web Sites\www.simons.cat\assets\images\asset-landing-mobile-bg-light.png
+Content Type: image/png
+
+Uri: https://www.simons.cat/assets/images/lake-right-side-light.svg
+File Name: C:\Downloaded Web Sites\www.simons.cat\assets\images\lake-right-side-light.svg
+Content Type: image/svg+xml
+
+Uri: https://www.simons.cat/assets/images/left-grass-light.svg
+File Name: C:\Downloaded Web Sites\www.simons.cat\assets\images\left-grass-light.svg
+Content Type: image/svg+xml
+
+Uri: https://www.simons.cat/assets/images/logo.svg
+File Name: C:\Downloaded Web Sites\www.simons.cat\assets\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.simons.cat/assets/images/money.svg
+File Name: C:\Downloaded Web Sites\www.simons.cat\assets\images\money.svg
+Content Type: image/svg+xml
+
+Uri: https://www.simons.cat/assets/images/right-grass-light.svg
+File Name: C:\Downloaded Web Sites\www.simons.cat\assets\images\right-grass-light.svg
+Content Type: image/svg+xml
+
+Uri: https://www.simons.cat/assets/images/wall-light.svg
+File Name: C:\Downloaded Web Sites\www.simons.cat\assets\images\wall-light.svg
+Content Type: image/svg+xml
+
+Uri: https://www.simons.cat/assets/images/wall-mobile-light.svg
+File Name: C:\Downloaded Web Sites\www.simons.cat\assets\images\wall-mobile-light.svg
+Content Type: image/svg+xml
+
+Uri: https://www.simons.cat/assets/video/garden.mp4
+File Name: C:\Downloaded Web Sites\www.simons.cat\assets\video\garden.mp4
+Content Type: video/mp4
+
+Uri: https://www.simons.cat/favicon.ico
+File Name: C:\Downloaded Web Sites\www.simons.cat\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.simons.cat/_next/image?url=%2Fassets%2Fimages%2Fcat-kite.gif&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\cat-kite-1.gif
+Content Type: image/gif
+
+Uri: https://www.simons.cat/_next/image?url=%2Fassets%2Fimages%2Fcat-kite.gif&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\cat-kite.gif
+Content Type: image/gif
+
+Uri: https://www.simons.cat/_next/image?url=%2Fassets%2Fimages%2Fmoney-in-the-air.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\money-in-the-air-1.png
+Content Type: image/png
+
+Uri: https://www.simons.cat/_next/image?url=%2Fassets%2Fimages%2Fmoney-in-the-air.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\money-in-the-air.png
+Content Type: image/png
+
+Uri: https://www.simons.cat/_next/image?url=%2Fassets%2Fimages%2Fpartners-mobile.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\partners-mobile.png
+Content Type: image/png
+
+Uri: https://www.simons.cat/_next/image?url=%2Fassets%2Fimages%2Fpartners-mobile.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\partners-mobile-1.png
+Content Type: image/png
+
+Uri: https://www.simons.cat/_next/image?url=%2Fassets%2Fimages%2Fpartners.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\partners.png
+Content Type: image/png
+
+Uri: https://www.simons.cat/_next/image?url=%2Fassets%2Fimages%2Fpartners.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\partners-1.png
+Content Type: image/png
+
+Uri: https://www.simons.cat/_next/static/chunks/23-dfa97e59c6f5cb51.js
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\chunks\23-dfa97e59c6f5cb51.js
+Content Type: application/javascript
+
+Uri: https://www.simons.cat/_next/static/chunks/745-2924c3a84136e90c.js
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\chunks\745-2924c3a84136e90c.js
+Content Type: application/javascript
+
+Uri: https://www.simons.cat/_next/static/chunks/app/layout-c94c803bbdaa2b37.js
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\chunks\app\layout-c94c803bbdaa2b37.js
+Content Type: application/javascript
+
+Uri: https://www.simons.cat/_next/static/chunks/app/page-836d727b4bddd8ea.js
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\chunks\app\page-836d727b4bddd8ea.js
+Content Type: application/javascript
+
+Uri: https://www.simons.cat/_next/static/chunks/fd9d1056-f7b12fa2081115ef.js
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\chunks\fd9d1056-f7b12fa2081115ef.js
+Content Type: application/javascript
+
+Uri: https://www.simons.cat/_next/static/chunks/main-app-693d2cd1d3938aa5.js
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\chunks\main-app-693d2cd1d3938aa5.js
+Content Type: application/javascript
+
+Uri: https://www.simons.cat/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://www.simons.cat/_next/static/chunks/webpack-aa970568112926ee.js
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\chunks\webpack-aa970568112926ee.js
+Content Type: application/javascript
+
+Uri: https://www.simons.cat/_next/static/css/46255cbd6baa6e6a.css
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\css\46255cbd6baa6e6a.css
+Content Type: text/css
+
+Uri: https://www.simons.cat/_next/static/css/e8afa882beca5865.css
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\css\e8afa882beca5865.css
+Content Type: text/css
+
+Uri: https://www.simons.cat/_next/static/media/062522b8b7c3ad6a-s.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\062522b8b7c3ad6a-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/0d5065bd7eaa88f4-s.p.otf
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\0d5065bd7eaa88f4-s.p.otf
+Content Type: font/otf
+
+Uri: https://www.simons.cat/_next/static/media/19e37deead9b3ec2-s.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\19e37deead9b3ec2-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/3d9ea938b6afa941-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\3d9ea938b6afa941-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/46392699924ae7e5-s.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\46392699924ae7e5-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/46c21389e888bf13-s.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\46c21389e888bf13-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/5174d48889eafebe-s.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\5174d48889eafebe-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/66c89cdb3c9b0c3f-s.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\66c89cdb3c9b0c3f-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/6fed4e5749a3ea15-s.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\6fed4e5749a3ea15-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/83651bee47cf14da-s.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\83651bee47cf14da-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/8c7a0a1575b90f43-s.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\8c7a0a1575b90f43-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/9beef36ab83de3f0-s.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\9beef36ab83de3f0-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/d0d902c17c06e6a9-s.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\d0d902c17c06e6a9-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/dd4ab5b525bd804a-s.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\dd4ab5b525bd804a-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/e6f5886ae1242622-s.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\e6f5886ae1242622-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/eafabf029ad39a43-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\eafabf029ad39a43-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/f7040064460a9b21-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\f7040064460a9b21-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.simons.cat/_next/static/media/faac4ac11aa3d97b-s.woff2
+File Name: C:\Downloaded Web Sites\www.simons.cat\_next\static\media\faac4ac11aa3d97b-s.woff2
+Content Type: font/woff2
+
